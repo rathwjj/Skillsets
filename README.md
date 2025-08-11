@@ -84,11 +84,11 @@
 ---
 
 ##  Legend
-- 🟨 = Level 1 (Beginner - Pale Yellow)  
-- 🟨🟨 = Level 2 (Basic - Yellow)  
-- 🟩🟩🟩 = Level 3 (Skilled - Greenish)  
-- 🟩🟩🟩🟩 = Level 4 (Very Good - Bright Green)  
-- 🟩🟩🟩🟩🟩 = Level 5 (Expert - Green)  
+- 🟨 = Level 1 (Beginner)  
+- 🟨🟨 = Level 2 (Basic)  
+- 🟩🟩🟩 = Level 3 (Skilled)  
+- 🟩🟩🟩🟩 = Level 4 (Very Good)  
+- 🟩🟩🟩🟩🟩 = Level 5 (Expert)  
    
 - Theory = Conceptual knowledge  
 - Practice = Hands-on experience  
