@@ -1,101 +1,94 @@
-# Rath's Skill Sets
-
-> **Color key:** Level 1 = pale yellow → Level 5 = green (filled squares), □ = empty
+# 🛠 Rath's Skill Sets
 
 ## 1. Core Technical Skills
 
 ### Programming & Scripting
-| Skill | Theory | Practice |
-|-------|--------|----------|
-| Python | <span style="color:#CCFF66">■■■</span>□□ | <span style="color:#FFEB3B">■■</span>□□□ |
-| SQL | <span style="color:#2E7D32">■■■■■</span> | <span style="color:#2E7D32">■■■■■</span> |
-| Bash / Shell scripting | <span style="color:#66BB6A">■■■■</span>□ | <span style="color:#66BB6A">■■■■</span>□ |
-| Javascript | <span style="color:#CCFF66">■■■</span>□□ | <span style="color:#CCFF66">■■■</span>□□ |
-| Go | <span style="color:#CCFF66">■■■</span>□□ | <span style="color:#FFEB3B">■■</span>□□□ |
-| Pascal | <span style="color:#2E7D32">■■■■■</span> | <span style="color:#2E7D32">■■■■■</span> |
-| Basic | <span style="color:#2E7D32">■■■■■</span> | <span style="color:#2E7D32">■■■■■</span> |
+| Skill                | Theory                | Practice              |
+|----------------------|-----------------------|-----------------------|
+| Python               | 🟩🟩🟩⬜⬜ (3)           | 🟨🟨⬜⬜⬜ (2)           |
+| SQL                  | 🟩🟩🟩🟩🟩 (5)           | 🟩🟩🟩🟩🟩 (5)           |
+| Bash / Shell scripting| 🟩🟩🟩🟩⬜ (4)           | 🟩🟩🟩🟩⬜ (4)           |
+| Javascript           | 🟩🟩🟩⬜⬜ (3)           | 🟩🟩🟩⬜⬜ (3)           |
+| Go                   | 🟩🟩🟩⬜⬜ (3)           | 🟨🟨⬜⬜⬜ (2)           |
+| Pascal               | 🟩🟩🟩🟩🟩 (5)           | 🟩🟩🟩🟩🟩 (5)           |
+| Basic                | 🟩🟩🟩🟩🟩 (5)           | 🟩🟩🟩🟩🟩 (5)           |
 
 ### Data Science & Analytics
-| Skill | Theory | Practice |
-|-------|--------|----------|
-| Data cleaning & preprocessing | <span style="color:#2E7D32">■■■■■</span> | <span style="color:#2E7D32">■■■■■</span> |
-| Exploratory data analysis (EDA) | <span style="color:#2E7D32">■■■■■</span> | <span style="color:#2E7D32">■■■■■</span> |
-| Statistical modeling | <span style="color:#2E7D32">■■■■■</span> | <span style="color:#2E7D32">■■■■■</span> |
+| Skill                       | Theory                | Practice              |
+|-----------------------------|-----------------------|-----------------------|
+| Data cleaning & preprocessing| 🟩🟩🟩🟩🟩 (5)           | 🟩🟩🟩🟩🟩 (5)           |
+| Exploratory data analysis (EDA)| 🟩🟩🟩🟩🟩 (5)         | 🟩🟩🟩🟩🟩 (5)           |
+| Statistical modeling         | 🟩🟩🟩🟩🟩 (5)           | 🟩🟩🟩🟩🟩 (5)           |
 
 ### Artificial Intelligence & Machine Learning
-| Skill | Theory | Practice |
-|-------|--------|----------|
-| Supervised learning (classification, regression) | <span style="color:#FFEB3B">■■</span>□□□ | <span style="color:#FFEB3B">■■</span>□□□ |
-| Unsupervised learning (clustering, dimensionality reduction) | <span style="color:#CCFF66">■■■</span>□□ | <span style="color:#FFEB3B">■■</span>□□□ |
-| Model evaluation & tuning | <span style="color:#FFEB3B">■■</span>□□□ | <span style="color:#FFEB3B">■■</span>□□□ |
-| Deep learning basics (TensorFlow / PyTorch) | <span style="color:#FFEB3B">■■</span>□□□ | <span style="color:#FFEB3B">■■</span>□□□ |
-| Natural Language Processing (NLP) basics | <span style="color:#CCFF66">■■■</span>□□ | <span style="color:#CCFF66">■■■</span>□□ |
+| Skill                                  | Theory                | Practice              |
+|----------------------------------------|-----------------------|-----------------------|
+| Supervised learning (classification, regression) | 🟨🟨⬜⬜⬜ (2)    | 🟨🟨⬜⬜⬜ (2)           |
+| Unsupervised learning (clustering, dimensionality reduction) | 🟩🟩🟩⬜⬜ (3) | 🟨🟨⬜⬜⬜ (2)           |
+| Model evaluation & tuning              | 🟨🟨⬜⬜⬜ (2)           | 🟨🟨⬜⬜⬜ (2)           |
+| Deep learning basics (TensorFlow / PyTorch) | 🟨🟨⬜⬜⬜ (2)       | 🟨🟨⬜⬜⬜ (2)           |
+| Natural Language Processing (NLP) basics | 🟩🟩🟩⬜⬜ (3)         | 🟩🟩🟩⬜⬜ (3)           |
 
 ### Networking & Security
-| Skill | Theory | Practice |
-|-------|--------|----------|
-| TCP/IP, DNS, DHCP | <span style="color:#2E7D32">■■■■■</span> | <span style="color:#2E7D32">■■■■■</span> |
-| Network configuration & troubleshooting | <span style="color:#2E7D32">■■■■■</span> | <span style="color:#2E7D32">■■■■■</span> |
-| VPNs, firewalls, routing basics | <span style="color:#2E7D32">■■■■■</span> | <span style="color:#2E7D32">■■■■■</span> |
-| Security principles (CIA triad, least privilege, access control) | <span style="color:#2E7D32">■■■■■</span> | <span style="color:#2E7D32">■■■■■</span> |
-| IAM and SSO | <span style="color:#2E7D32">■■■■■</span> | <span style="color:#2E7D32">■■■■■</span> |
-| Encryption & secure protocols (SSL/TLS, SSH) | <span style="color:#CCFF66">■■■</span>□□ | <span style="color:#CCFF66">■■■</span>□□ |
+| Skill                                  | Theory                | Practice              |
+|----------------------------------------|-----------------------|-----------------------|
+| TCP/IP, DNS, DHCP                      | 🟩🟩🟩🟩🟩 (5)           | 🟩🟩🟩🟩🟩 (5)           |
+| Network configuration & troubleshooting | 🟩🟩🟩🟩🟩 (5)         | 🟩🟩🟩🟩🟩 (5)           |
+| VPNs, firewalls, routing basics        | 🟩🟩🟩🟩🟩 (5)           | 🟩🟩🟩🟩🟩 (5)           |
+| Security principles (CIA triad, least privilege, access control) | 🟩🟩🟩🟩🟩 (5) | 🟩🟩🟩🟩🟩 (5)           |
+| IAM and SSO                           | 🟩🟩🟩🟩🟩 (5)           | 🟩🟩🟩🟩🟩 (5)           |
+| Encryption & secure protocols (SSL/TLS, SSH) | 🟩🟩🟩⬜⬜ (3)       | 🟩🟩🟩⬜⬜ (3)           |
 
 ### Cloud and Infrastructure
-| Skill | Theory | Practice |
-|-------|--------|----------|
-| Git / GitHub workflows | <span style="color:#FFF9C4">■</span>□□□□ | <span style="color:#FFF9C4">■</span>□□□□ |
-| Linux server administration | <span style="color:#2E7D32">■■■■■</span> | <span style="color:#2E7D32">■■■■■</span> |
-| APIs (REST, FHIR for healthcare) | <span style="color:#FFEB3B">■■</span>□□□ | <span style="color:#FFF9C4">■</span>□□□□ |
-| Basic Cloud Platforms | <span style="color:#2E7D32">■■■■■</span> | <span style="color:#2E7D32">■■■■■</span> |
-| Azure (Data services, ML Studio) | <span style="color:#CCFF66">■■■</span>□□ | <span style="color:#CCFF66">■■■</span>□□ |
-| AWS basics (S3, EC2, Lambda) | <span style="color:#FFEB3B">■■</span>□□□ | <span style="color:#FFEB3B">■■</span>□□□ |
-| Docker | <span style="color:#FFEB3B">■■</span>□□□ | <span style="color:#FFEB3B">■■</span>□□□ |
-| Kubernetes | <span style="color:#FFF9C4">■</span>□□□□ | <span style="color:#FFF9C4">■</span>□□□□ |
-
----
+| Skill                                  | Theory                | Practice              |
+|----------------------------------------|-----------------------|-----------------------|
+| Git / GitHub workflows                 | 🟨⬜⬜⬜⬜ (1)           | 🟨⬜⬜⬜⬜ (1)           |
+| Linux server administration            | 🟩🟩🟩🟩🟩 (5)           | 🟩🟩🟩🟩🟩 (5)           |
+| APIs (REST, FHIR for healthcare)       | 🟨🟨⬜⬜⬜ (2)           | 🟨⬜⬜⬜⬜ (1)           |
+| Basic Cloud Platforms                   | 🟩🟩🟩🟩🟩 (5)           | 🟩🟩🟩🟩🟩 (5)           |
+| Azure (Data services, ML Studio)       | 🟩🟩🟩⬜⬜ (3)           | 🟩🟩🟩⬜⬜ (3)           |
+| AWS basics (S3, EC2, Lambda)           | 🟨🟨⬜⬜⬜ (2)           | 🟨🟨⬜⬜⬜ (2)           |
+| Docker                                | 🟨🟨⬜⬜⬜ (2)           | 🟨🟨⬜⬜⬜ (2)           |
+| Kubernetes                            | 🟨⬜⬜⬜⬜ (1)           | 🟨⬜⬜⬜⬜ (1)           |
 
 ## 2. Domain-Specific Skills
 
 ### Healthcare Data Standards
-| Skill | Theory | Practice |
-|-------|--------|----------|
-| HL7, FHIR, DICOM | <span style="color:#FFEB3B">■■</span>□□□ | <span style="color:#FFF9C4">■</span>□□□□ |
-| ICD-10 / SNOMED CT coding | <span style="color:#FFF9C4">■</span>□□□□ | <span style="color:#FFF9C4">■</span>□□□□ |
-| Imaging Informatics | <span style="color:#FFF9C4">■</span>□□□□ | <span style="color:#FFF9C4">■</span>□□□□ |
-| PACS & RIS basics | <span style="color:#FFF9C4">■</span>□□□□ | <span style="color:#FFF9C4">■</span>□□□□ |
-| Image processing & analysis | <span style="color:#FFF9C4">■</span>□□□□ | <span style="color:#FFEB3B">■■</span>□□□ |
-| Healthcare Analytics | <span style="color:#FFF9C4">■</span>□□□□ | <span style="color:#CCFF66">■■■</span>□□ |
-| Outcomes tracking | <span style="color:#CCFF66">■■■</span>□□ | <span style="color:#2E7D32">■■■■■</span> |
-| Population health data analysis | <span style="color:#FFEB3B">■■</span>□□□ | <span style="color:#2E7D32">■■■■■</span> |
-| Predictive modeling for healthcare | <span style="color:#FFEB3B">■■</span>□□□ | <span style="color:#CCFF66">■■■</span>□□ |
-
----
+| Skill                                  | Theory                | Practice              |
+|----------------------------------------|-----------------------|-----------------------|
+| HL7, FHIR, DICOM                      | 🟨🟨⬜⬜⬜ (2)           | 🟨⬜⬜⬜⬜ (1)           |
+| ICD-10 / SNOMED CT coding             | 🟨⬜⬜⬜⬜ (1)           | 🟨⬜⬜⬜⬜ (1)           |
+| Imaging Informatics                   | 🟨⬜⬜⬜⬜ (1)           | 🟨⬜⬜⬜⬜ (1)           |
+| PACS & RIS basics                    | 🟨⬜⬜⬜⬜ (1)           | 🟨⬜⬜⬜⬜ (1)           |
+| Image processing & analysis          | 🟨⬜⬜⬜⬜ (1)           | 🟩🟩🟩⬜⬜ (3)           |
+| Healthcare Analytics                 | 🟨⬜⬜⬜⬜ (1)           | 🟩🟩🟩🟩⬜ (4)           |
+| Outcomes tracking                   | 🟩🟩🟩⬜⬜ (3)           | 🟩🟩🟩🟩🟩 (5)           |
+| Population health data analysis     | 🟩🟩🟩⬜⬜ (3)           | 🟩🟩🟩🟩🟩 (5)           |
+| Predictive modeling for healthcare  | 🟩🟩🟩⬜⬜ (3)           | 🟩🟩🟩⬜⬜ (3)           |
 
 ## 3. Professional & Supporting Skills
 
 ### Project & Workflow
-| Skill | Theory | Practice |
-|-------|--------|----------|
-| Agile / Scrum basics | <span style="color:#CCFF66">■■■</span>□□ | <span style="color:#FFEB3B">■■</span>□□□ |
-| Documentation (Markdown, technical writing) | <span style="color:#2E7D32">■■■■■</span> | <span style="color:#2E7D32">■■■■■</span> |
-| Requirements gathering | <span style="color:#2E7D32">■■■■■</span> | <span style="color:#2E7D32">■■■■■</span> |
+| Skill                                  | Theory                | Practice              |
+|----------------------------------------|-----------------------|-----------------------|
+| Agile / Scrum basics                  | 🟩🟩🟩⬜⬜ (3)           | 🟨🟨⬜⬜⬜ (2)           |
+| Documentation (Markdown, technical writing) | 🟩🟩🟩🟩🟩 (5)    | 🟩🟩🟩🟩🟩 (5)           |
+| Requirements gathering               | 🟩🟩🟩🟩🟩 (5)           | 🟩🟩🟩🟩🟩 (5)           |
 
 ### Communication
-| Skill | Theory | Practice |
-|-------|--------|----------|
-| Visualizing results for non-technical stakeholders | <span style="color:#2E7D32">■■■■■</span> | <span style="color:#2E7D32">■■■■■</span> |
-| Translating technical findings into business/clinical insights | <span style="color:#2E7D32">■■■■■</span> | <span style="color:#2E7D32">■■■■■</span> |
+| Skill                                  | Theory                | Practice              |
+|----------------------------------------|-----------------------|-----------------------|
+| Visualizing results for non-technical stakeholders | 🟩🟩🟩🟩🟩 (5)   | 🟩🟩🟩🟩🟩 (5)           |
+| Translating technical findings into business/clinical insights | 🟩🟩🟩🟩🟩 (5) | 🟩🟩🟩🟩🟩 (5)           |
 
 ---
 
 ## 📊 Legend
-- <span style="color:#FFF9C4">■</span> = Level 1 — Pale Yellow (Basic)  
-- <span style="color:#FFEB3B">■</span> = Level 2 — Yellow (Experienced)  
-- <span style="color:#CCFF66">■</span> = Level 3 — Greenish Yellow (Skilled)  
-- <span style="color:#66BB6A">■</span> = Level 4 — Bright Green (Expert)  
-- <span style="color:#2E7D32">■</span> = Level 5 — Green (Master)  
-
-**Theory** = conceptual knowledge and principles.  
-**Practice** = hands-on application and real-world experience.
-
+- 🟨 = Level 1 (Beginner - Pale Yellow)  
+- 🟨🟨 = Level 2 (Basic - Yellow)  
+- 🟩🟩🟩 = Level 3 (Skilled - Greenish)  
+- 🟩🟩🟩🟩 = Level 4 (Very Good - Bright Green)  
+- 🟩🟩🟩🟩🟩 = Level 5 (Expert - Green)  
+- ⬜ = Empty block for unused levels  
+- Theory = Conceptual knowledge  
+- Practice = Hands-on experience  
