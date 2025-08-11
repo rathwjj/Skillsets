@@ -1,4 +1,4 @@
-# 🛠 Rath's Skill Sets
+# Rath's Skill Sets
 
 ## 1. Core Technical Skills
 
@@ -83,12 +83,12 @@
 
 ---
 
-## 📊 Legend
+##  Legend
 - 🟨 = Level 1 (Beginner - Pale Yellow)  
 - 🟨🟨 = Level 2 (Basic - Yellow)  
 - 🟩🟩🟩 = Level 3 (Skilled - Greenish)  
 - 🟩🟩🟩🟩 = Level 4 (Very Good - Bright Green)  
 - 🟩🟩🟩🟩🟩 = Level 5 (Expert - Green)  
-- ⬜ = Empty block for unused levels  
+   
 - Theory = Conceptual knowledge  
 - Practice = Hands-on experience  
