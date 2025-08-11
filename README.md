@@ -84,11 +84,11 @@
 ---
 
 ##  Legend
-- 🟨 = Level 1 (Beginner)  
-- 🟨🟨 = Level 2 (Basic)  
-- 🟩🟩🟩 = Level 3 (Skilled)  
-- 🟩🟩🟩🟩 = Level 4 (Very Good)  
-- 🟩🟩🟩🟩🟩 = Level 5 (Expert)  
+- 🟨 = Level 1 (Basic)  
+- 🟨🟨 = Level 2 (Experienced )  
+- 🟩🟩🟩 = Level 3 (skilled)  
+- 🟩🟩🟩🟩 = Level 4 (Expert)  
+- 🟩🟩🟩🟩🟩 = Level 5 (Master)  
    
 - Theory = Conceptual knowledge  
 - Practice = Hands-on experience  
