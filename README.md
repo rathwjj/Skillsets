@@ -88,7 +88,7 @@ For detailed learning history and sources, see: [Learned Skills](https://github.
 ##  Legend
 - 🟨 = Level 1 (Basic)  
 - 🟨🟨 = Level 2 (Experienced )  
-- 🟩🟩🟩 = Level 3 (skilled)  
+- 🟩🟩🟩 = Level 3 (Skilled)  
 - 🟩🟩🟩🟩 = Level 4 (Expert)  
 - 🟩🟩🟩🟩🟩 = Level 5 (Master)  
    
