@@ -1,4 +1,6 @@
 # Rath's Skill Sets
+A quick, visual overview of my technical and domain-specific skills.  
+For detailed learning history and sources, see: [Learned Skills](https://github.com/rathwjj/learned-skills)
 
 ## 1. Core Technical Skills
 
